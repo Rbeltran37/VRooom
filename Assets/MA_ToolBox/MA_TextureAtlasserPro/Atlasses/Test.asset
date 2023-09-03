@@ -1,0 +1,221 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 892d1a7aeb4cc284dbf62e69e125db52, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  textureQuads:
+  - {fileID: 8828277679278781416}
+  - {fileID: 4490635788528703326}
+  - {fileID: 737293478780955568}
+  - {fileID: 6546515464859718997}
+  selectedTextureQuad: {fileID: 6546515464859718997}
+  showTextures: 0
+  exportSettings: {fileID: 11400000, guid: 1b7337c93ee13604fba3a545b3c4c15f, type: 2}
+  textureAtlasSize: {x: 1024, y: 1024}
+  textureGroupRegistration:
+  - name: Albedo
+--- !u!114 &737293478780955568
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: s3
+  m_EditorClassIdentifier: 
+  isSelected: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 505.61578
+    width: 527.99963
+    height: 518.3842
+  guiRect:
+    serializedVersion: 2
+    x: 0
+    y: 512
+    width: 512
+    height: 512
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 736.43933
+    y: 1298.951
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 1008.43933
+    y: 1026.951
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 752.43933
+    y: 1042.951
+    width: 32
+    height: 32
+  textureGroups:
+  - name: Albedo
+    texture: {fileID: 2800000, guid: 4c3f0f949a263084da208010e2d404b2, type: 3}
+  modelGroups: []
+--- !u!114 &4490635788528703326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: s2
+  m_EditorClassIdentifier: 
+  isSelected: 0
+  rect:
+    serializedVersion: 2
+    x: 496.00037
+    y: 0
+    width: 527.99963
+    height: 518.3842
+  guiRect:
+    serializedVersion: 2
+    x: 512
+    y: 0
+    width: 512
+    height: 512
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 1248.4393
+    y: 786.95105
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 1520.4393
+    y: 514.95105
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 1264.4393
+    y: 530.95105
+    width: 32
+    height: 32
+  textureGroups:
+  - name: Albedo
+    texture: {fileID: 2800000, guid: aeb9ce71a1305644da5c86d5ff9f5b15, type: 3}
+  modelGroups: []
+--- !u!114 &6546515464859718997
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: s4
+  m_EditorClassIdentifier: 
+  isSelected: 1
+  rect:
+    serializedVersion: 2
+    x: 496.00037
+    y: 505.61578
+    width: 527.99963
+    height: 518.3842
+  guiRect:
+    serializedVersion: 2
+    x: 512
+    y: 512
+    width: 512
+    height: 512
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 982.8333
+    y: 1136.1666
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 1254.8334
+    y: 864.1667
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 998.8333
+    y: 880.1667
+    width: 32
+    height: 32
+  textureGroups:
+  - name: Albedo
+    texture: {fileID: 2800000, guid: 19325a849f68517429c568152d9e1fa4, type: 3}
+  modelGroups:
+  - name: QQsjIp
+    meshes: []
+  - name: XnCxMF
+    meshes: []
+--- !u!114 &8828277679278781416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad07a78750c7644b710e19e1a23d4a, type: 3}
+  m_Name: s1
+  m_EditorClassIdentifier: 
+  isSelected: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 527.99963
+    height: 518.3842
+  guiRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 512
+    height: 512
+  debugMode: 0
+  dragRectHeight:
+    serializedVersion: 2
+    x: 736.43933
+    y: 786.95105
+    width: 64
+    height: 16
+  dragRectWidth:
+    serializedVersion: 2
+    x: 1008.43933
+    y: 514.95105
+    width: 16
+    height: 64
+  dragRectPos:
+    serializedVersion: 2
+    x: 752.43933
+    y: 530.95105
+    width: 32
+    height: 32
+  textureGroups:
+  - name: Albedo
+    texture: {fileID: 2800000, guid: 53c430e207ec6f749acb32bfc3d0aa0c, type: 3}
+  modelGroups: []

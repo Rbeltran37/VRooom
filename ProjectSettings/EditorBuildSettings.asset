@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 2de3b37ce5ea19a4ca4b93833ace2cb0
+  - enabled: 0
+    path: Assets/Scenes/test.unity
+    guid: 1a05625ce9839bc4fac878d20558cf09
+  - enabled: 0
+    path: Assets/Scenes/CombineMeshes.unity
+    guid: 595dfda5f0c640f4287c778c60ce5856
+  - enabled: 0
+    path: Assets/Scenes/lighting.unity
+    guid: b0ef9c3b063b5364baee33bebd12715a
+  - enabled: 0
+    path: Assets/Scenes/zzzz.unity
+    guid: e7ae0f871ecf6cf4ebdbe8e723350d03
+  - enabled: 0
+    path: Assets/Scenes/construction.unity
+    guid: eef93c9ac919c66408a7cd46933c2160
+  - enabled: 0
+    path: Assets/Scenes/Main-Backup.unity
+    guid: 112ccbdf18c36f14d975bc3262cb3382
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8d09b89b0f8e2054d8607f07c1847c06,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2024f72eaea496f4792dc4384f08478b,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 49006c1775a82aa4d9c1444d227ffbb1,
+      type: 2}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sci-Fi Assault Rifle
+* source:	https://sketchfab.com/3d-models/sci-fi-assault-rifle-e07283d1048a4090bce3514a2eeb0767
+* author:	Vladek (https://sketchfab.com/vladek27)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sci-Fi Assault Rifle" (https://sketchfab.com/3d-models/sci-fi-assault-rifle-e07283d1048a4090bce3514a2eeb0767) by Vladek (https://sketchfab.com/vladek27) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

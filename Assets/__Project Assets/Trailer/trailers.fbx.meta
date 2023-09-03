@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: cfda326fff06b1b419284117fb61064e
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_001
+    second: {fileID: 2100000, guid: 70f5758c4b79dcc459e3cde2bd426228, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_002
+    second: {fileID: 2100000, guid: 3aeb03d3e0856504bb4b13cb54b7b273, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_003
+    second: {fileID: 2100000, guid: dceb414eae60bfe4f8521ca774ec57e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_004
+    second: {fileID: 2100000, guid: 3de0409b70f84f84bad98b3987b1b386, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Large grip delivery truck_001
+    second: {fileID: 2100000, guid: bf094f40df334a747964853f70f0c3b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Large grip delivery truck_002
+    second: {fileID: 2100000, guid: 4ce1b7ab63a64fc4aa621a51297ba3f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Large grip delivery truck_003
+    second: {fileID: 2100000, guid: a1c65e9905c764f42addc7e8fc424f41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Large grip delivery truck_004
+    second: {fileID: 2100000, guid: 70357fa2f863e134b962ab37fa86a249, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Large grip delivery truck_005
+    second: {fileID: 2100000, guid: d70a687d952bd9d44896b7df3fce7584, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Large grip delivery truck_006
+    second: {fileID: 2100000, guid: 55b4f629bd3b5e14784aad3eb4bb8e99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Large grip delivery truck_007
+    second: {fileID: 2100000, guid: 54cda7bd578d71748bb65a48796e2b5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Large grip delivery truck_008
+    second: {fileID: 2100000, guid: d0e78ca43d014f14cb1dc9b6d5c96ef0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_SUV tire#1_001
+    second: {fileID: 2100000, guid: 4aefbc6812e9d8b4d9e7d2950a434f66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Semi truck and trailer_001
+    second: {fileID: 2100000, guid: 6eb92ba6ae79c5147befddec68d769f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Semi truck and trailer_002
+    second: {fileID: 2100000, guid: e0584421fd7b96f448f2cce21239c347, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Semi truck and trailer_003
+    second: {fileID: 2100000, guid: b5dcde502c34da24eb3fd08afc91703a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Semi truck and trailer_004
+    second: {fileID: 2100000, guid: 91bae9fb0f941eb4cbc91e9189d95769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Semi truck and trailer_005
+    second: {fileID: 2100000, guid: 112ef181bef57d7489f2e897e31787e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Semi truck and trailer_006
+    second: {fileID: 2100000, guid: dd6917812a77a4e43a3447feb7b208fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Semi truck and trailer_007
+    second: {fileID: 2100000, guid: 13eaf13729f480b45a2860fdbbddedcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Semi truck and trailer_008
+    second: {fileID: 2100000, guid: 47199fc40af31cc4ea66fbea999dd78a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Semi truck and trailer_009
+    second: {fileID: 2100000, guid: a85caad2fffb7ac4aa22832d5344dbfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Semi truck and trailer_010
+    second: {fileID: 2100000, guid: aa0c1fbc682ef7c408397d36a659cfdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Semi truck and trailer_011
+    second: {fileID: 2100000, guid: 13eb42feb373be94495850ad57ebd8c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Semi truck and trailer_012
+    second: {fileID: 2100000, guid: a4e7b433fa1fa2c46b2b718ea5577feb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Semi truck and trailer_013
+    second: {fileID: 2100000, guid: a5326555aa6004148a68ad9e4b78229c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Semi truck and trailer_014
+    second: {fileID: 2100000, guid: 7395225e4dad92043bd332cee9856af4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Semi truck and trailer_015
+    second: {fileID: 2100000, guid: e3b10e199b238ef43b78d3f2b1fe6fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Shipping container 40'_001
+    second: {fileID: 2100000, guid: 2edb3021b6c414e45a0867e0593e6a90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Shipping container 40'_002
+    second: {fileID: 2100000, guid: f4ad6fedb200a6341a1173d76521a3ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Shipping container 40'_003
+    second: {fileID: 2100000, guid: e44cc8d93cc57b246bdc6f45a2bd19ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Shipping container 40'_004
+    second: {fileID: 2100000, guid: 3f8f51e39cbbfe84a879590e36887c6f, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

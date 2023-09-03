@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sci-Fi Motorcycle
+* source:	https://sketchfab.com/3d-models/sci-fi-motorcycle-5375967f295342d0a05d0a284f547066
+* author:	fnazareno (https://sketchfab.com/fnazareno)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sci-Fi Motorcycle" (https://sketchfab.com/3d-models/sci-fi-motorcycle-5375967f295342d0a05d0a284f547066) by fnazareno (https://sketchfab.com/fnazareno) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

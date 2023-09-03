@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sin City Tacos Truck (Army of the Dead)
+* source:	https://sketchfab.com/3d-models/sin-city-tacos-truck-army-of-the-dead-deb6506aac7a4bb38603c0b9ae20b367
+* author:	DavidA3D (https://sketchfab.com/DavidA3D)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sin City Tacos Truck (Army of the Dead)" (https://sketchfab.com/3d-models/sin-city-tacos-truck-army-of-the-dead-deb6506aac7a4bb38603c0b9ae20b367) by DavidA3D (https://sketchfab.com/DavidA3D) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

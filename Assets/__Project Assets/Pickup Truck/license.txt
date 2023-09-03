@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pickup Truck (Commercial Vehicle)
+* source:	https://sketchfab.com/3d-models/pickup-truck-commercial-vehicle-dafd6d37e8ea49599ae0f58ced214326
+* author:	Fasih.Ahmed (https://sketchfab.com/Fasih.Ahmed)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pickup Truck (Commercial Vehicle)" (https://sketchfab.com/3d-models/pickup-truck-commercial-vehicle-dafd6d37e8ea49599ae0f58ced214326) by Fasih.Ahmed (https://sketchfab.com/Fasih.Ahmed) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
